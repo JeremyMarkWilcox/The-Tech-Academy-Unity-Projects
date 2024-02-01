@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Climbing
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2538496991
+    locked: 0
+  - name: Climbables
+    uniqueID: 103628555
     locked: 0
   - name: Conquer
     uniqueID: 536403163
