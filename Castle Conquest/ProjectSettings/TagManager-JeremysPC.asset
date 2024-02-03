@@ -56,9 +56,9 @@ TagManager:
   - name: Conquer
     uniqueID: 536403163
     locked: 0
+  - name: Bomb
+    uniqueID: 2178333199
+    locked: 0
   - name: Foreground
     uniqueID: 2538496991
-    locked: 0
-  - name: Bomb
-    uniqueID: 1194835715
     locked: 0
